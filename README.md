@@ -1,12 +1,12 @@
 # ML-Algorithms
 
-# INSTRUCTIONS
-
-There are three parts to this assignment. Please read all sections of the instructions carefully. In particular, note that you have a total of 5 submission attempts for each question. 
-
+List of Machine Learning Algorithms using python3, numpy, matplotlib, scikit-learn and tensorflow.
 - Perceptron Learning Algorithm
+  - Requires: python3, numpy, matplotlib
 - Linear Regression with gradient descent
+  - Requires: python3, numpy, matplotlib
 - Classification
+  - Requires: python3, numpy, matplotlib and scikit-learn
 
 ## Perceptron Learning Algorithm
 
